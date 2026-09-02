@@ -1,4 +1,4 @@
-# TNXGLab Noctalia Arch Repository
+# TNXG Arch Repository
 
 为 [TNXGLab/noctalia](https://github.com/TNXGLab/noctalia) `main` 分支提供自动构建的 Arch Linux `x86_64` 软件包。
 
